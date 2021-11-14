@@ -8,7 +8,7 @@ using namespace std;
         cin >> n;
 
         if (n >= 2) {
-            cout <<c<<endl;
+            cout <<a<<b<<endl;
             for (int i=0 ; i < n; i++){
               
                 c = a + b;
