@@ -3,12 +3,12 @@ using namespace std;
 
     int main() {
 
-        int n = 0, i =i, a = 0, b = 1,  c=0;
+        int n = 0, a = 0, b = 1,  c=0;
 
         cin >> n;
 
         if (n >= 2) {
-            for ( i=0 ; i < n; i++){
+            for (int i=0 ; i < n; i++){
               
                 c = a + b;
             cout << c << endl;
